@@ -31,7 +31,7 @@ describe('demo calculation test', function () {
         homepage.clickGo1();
 
 
-        browser.sleep(8000)
+        browser.sleep(5000)
 
 
     });
